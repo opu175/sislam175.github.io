@@ -23,7 +23,7 @@ repository               : "opu175/sislam175.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           :
   name             : "S. M. A. Bin Al Islam"
   pronouns         : # example: "she/her"  
   bio              : "Research Scientist | Optimization, AI & Cyber-Physical Systems"
@@ -41,7 +41,7 @@ author:
   orcid            :
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
