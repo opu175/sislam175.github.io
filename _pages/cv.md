@@ -1,64 +1,39 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- **Ph.D., Civil Engineering (Transportation Systems)**, North Carolina State University, 2021
+  - Dissertation: *Network-level Traffic Signal Control in the Era of Connectivity and Automation*
+- **M.S., Civil Engineering (Transportation)**, Washington State University
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Professional appointments
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Senior Research Scientist**, Amazon Robotics — starting January 2027
+- **Research Scientist II**, Amazon Robotics — August 2024 to December 2026
+- **Research Scientist**, Amazon — August 2021 to July 2024
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research experience
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Research on large-scale optimization, distributed decision-making, machine learning, and AI for cyber-physical and automated operational systems.
+- Earlier research experience at Oak Ridge National Laboratory and Washington State University.
+
+## Research areas
+
+- Mathematical optimization and large-scale mixed-integer programming
+- Distributed optimization and decomposition methods
+- Agentic AI and learning-augmented optimization
+- Intelligent transportation systems and traffic signal control
+- Robotics, fulfillment, and automated operations
+
+## Publications
+
+My publication record includes journal and conference papers in optimization, transportation systems, and intelligent decision-making. The complete, verified bibliography will be added to the [publications page]({{ '/publications/' | relative_url }}).
+
+## Curriculum vitae PDF
+
+A downloadable PDF will be added here when the latest version is ready.
